@@ -11,7 +11,7 @@
 //             b=result;
 //         }
 let number = parseFloat(prompt('Enter number'));
-const result = fibiNum(number);
+const result = fibNum(number);
 alert(number + ' in the fibonacci sequence holds ' + result);
 
 function fibNum(number) {
